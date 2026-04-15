@@ -100,7 +100,7 @@ catalog:
   "@cloudflare/workers-types": "^4.20260415.1"
   workerd: "1.20260415.1"
   jsonc-parser: "^3.2.0"
-  smol-toml: "^1.5.2"
+  smol-toml: "^1.6.1"
   msw: 2.12.4
   "tree-kill": "^1.2.2"
   "capnp-es": "^0.0.14"
